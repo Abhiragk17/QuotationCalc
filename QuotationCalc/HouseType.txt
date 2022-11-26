@@ -1,0 +1,1 @@
+Duplex 300000    Bungalow 400000    Flat 200000    FarmHouse 600000
